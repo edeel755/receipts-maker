@@ -1,0 +1,17 @@
+{
+  "name": "Receipt Maker",
+  "short_name": "Receipt Maker",
+  "description": "Create receipts instantly, then save customers, products, and track sales.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d7dff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
+
